@@ -12,6 +12,8 @@ class Hello
 		system.out.println("Hello Docker);
 		
 		system.out.println("Hello Kubernetes Certification Course);
+		
+		system.out.println("Hello Maven);
 
 	}
 }
