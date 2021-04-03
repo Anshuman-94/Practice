@@ -8,6 +8,8 @@ class Hello
 		system.out.println("Hello World");
 		
 		system.out.println("Hello Devops);
+		
+		system.out.println("Hello Maven);
 
 	}
 }
