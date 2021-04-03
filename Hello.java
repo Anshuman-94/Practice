@@ -7,7 +7,7 @@ class Hello
 
 		system.out.println("Hello World");
 		
-		system.out.println("Hello Devops);
+		system.out.println("Hello Devops Certification Course);
 		
 		system.out.println("Hello Docker);
 		
