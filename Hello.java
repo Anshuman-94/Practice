@@ -10,6 +10,8 @@ class Hello
 		system.out.println("Hello Devops);
 		
 		system.out.println("Hello Maven);
+		
+		system.out.println("Hello Jenkins);
 
 	}
 }
