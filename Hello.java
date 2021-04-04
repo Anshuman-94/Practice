@@ -16,6 +16,8 @@ class Hello
 		system.out.println("Hello Maven);
 		
 		system.out.println("Hello Jenkins Certification Course);
+		
+		system.out.println("Hello Ci and CD Certification Course);
 
 	}
 }
